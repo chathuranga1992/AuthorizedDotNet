@@ -1,0 +1,23 @@
+
+{
+  "name": "react-native-authorized-dot-net",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",    
+    "authorize.net",
+    "accept-js-sdk"
+  ],
+  "author": {
+    "name": "chathuranga",
+    "email": "mbckn1992@gmail.com"
+  },
+  "license": "",
+  "peerDependencies": {
+    "react-native": "0.68.2"
+  }
+}
